@@ -8,7 +8,7 @@
 ### App Walk-though
 
 
-<img src="" width=200><br>
+<img src="![emulator1](https://user-images.githubusercontent.com/43506274/70639864-14f36400-1c09-11ea-88c9-eba4c09d67ca.gif)" width=200><br>
 
 
 ### Required User Stories
